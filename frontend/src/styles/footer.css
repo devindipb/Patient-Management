@@ -1,0 +1,103 @@
+/* -------------------------footer styles------------------------- */
+.t1{
+ 
+    margin-right:   80px;
+    margin-left: 40px;
+   
+  }
+  .footer {
+    padding: 20px;
+    display: flex;
+    
+    max-width: 5000px;
+    margin: 0 auto;
+   
+    font-family: 'Salsa', cursive;
+    background-color:#fdeded;
+  }
+  
+  .top-boarder{
+    height: 3px;
+    width: 1310px;
+    background-color: #060605;
+    border-radius: 12px;
+    margin-left: 15px;  
+  }
+  .footer h1 {
+    color: #ffaa00;
+  }
+  .footer .links {
+    margin-left: auto;
+  }
+  .footer a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+  }
+  
+  .fotcontent h2{
+    margin-left: 50px;
+    margin-right: 50px;
+   
+  }
+  
+  .fotcontent hr{
+    width: 200px;
+    height: 5px;
+    background-color: #0b0b0a;
+    border-radius: 5px;
+    
+  }
+  
+  
+  .fotcontent ul{
+    margin-left: -170px;
+    list-style-type: none;
+  }
+  
+  .fotcontent ul li{
+    margin-bottom: 8px;
+    margin-top: 8px;
+  }
+  .fotcontent .contact{
+    display: flex;
+  }
+  .fotcontent img{
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;
+  }
+  .fotcontent .contact h3{
+    margin-top: 13px;
+   
+  }
+  
+  .fotcontent .question
+  {
+    padding-left: -100px;
+  }
+  
+  .fotcontent .fotcontent-container{
+    margin-bottom: 10px;
+  }
+  .hr{
+    background-color: #fafafaec;
+  }
+ .follow{
+    margin-bottom: 140px;
+ }
+ .question{
+  margin-bottom: 70px;
+ }
+ .quest{
+  margin-top: 40px;
+
+ }
+ .pages{
+  margin-right: -30px;
+ 
+ }
+
+ .fotcontent  .question{
+  margin-right: 100px;
+ }
